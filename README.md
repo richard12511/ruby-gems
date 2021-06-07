@@ -1,24 +1,5 @@
-# Installing Bootstrap with Rails 6
+# Installing Bootstrap 5 with Rails 6
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+https://dev.to/yarotheslav/install-bootstrap-5-with-ruby-on-rails-6-replace-bootstrap-4-2bf9
+https://www.udemy.com/course/ruby-on-rails-6-learn-20-gems-build-an-e-learning-platform/learn/lecture/22781211#questions/15077600
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
